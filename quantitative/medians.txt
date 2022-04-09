@@ -1,0 +1,103 @@
+Perf1 delta: 0.0 (N_med: 4.0 | I_med: 4)
+
+Perf2 delta: 0.5 (N_med: 2.5 | I_med: 2)
+
+Perf3 delta: -1 (N_med: 4 | I_med: 5)
+
+Perf4 delta: 3.0 (N_med: 5.0 | I_med: 2)
+
+Perf5 delta: 2 (N_med: 5 | I_med: 3)
+
+Perf6 delta: 1 (N_med: 5 | I_med: 4)
+
+Perf7 delta: 1.0 (N_med: 5.0 | I_med: 4)
+
+Perf8 delta: 0.0 (N_med: 5.0 | I_med: 5)
+
+Plan1 delta: 0.5 (N_med: 4.5 | I_med: 4.0)
+
+Plan2 delta: -1.0 (N_med: 3.0 | I_med: 4)
+
+Plan3 delta: 0 (N_med: 4 | I_med: 4)
+
+Plan4 delta: 3 (N_med: 4 | I_med: 1)
+
+Plan5 delta: -2 (N_med: 1 | I_med: 3)
+
+Plan6 delta: -1 (N_med: 3 | I_med: 4)
+
+Plan7 delta: 2 (N_med: 4 | I_med: 2)
+
+Plan8 delta: 0.5 (N_med: 3.5 | I_med: 3)
+
+Plan9 delta: -2.0 (N_med: 2.0 | I_med: 4)
+
+Goals1 delta: 0 (N_med: 5 | I_med: 5)
+
+Goals2 delta: 0 (N_med: 5 | I_med: 5)
+
+Goals3 delta: 0 (N_med: 5 | I_med: 5)
+
+Goals4 delta: -2 (N_med: 2 | I_med: 4)
+
+Auto1 delta: 0.0 (N_med: 5.0 | I_med: 5)
+
+Auto2 delta: 3.0 (N_med: 4 | I_med: 1.0)
+
+Auto3 delta: 1 (N_med: 4 | I_med: 3)
+
+Auto4 delta: -0.5 (N_med: 3.5 | I_med: 4.0)
+
+Auto5 delta: -0.5 (N_med: 2 | I_med: 2.5)
+
+Auto6 delta: 0 (N_med: 5 | I_med: 5)
+
+Auto7 delta: 2.0 (N_med: 5 | I_med: 3.0)
+
+Auto8 delta: 0.0 (N_med: 5 | I_med: 5.0)
+
+Auto9 delta: 1 (N_med: 3 | I_med: 2)
+
+Auto10 delta: 0 (N_med: 3 | I_med: 3)
+
+Tools1 delta: 0.5 (N_med: 4.5 | I_med: 4)
+
+Tools2 delta: -0.5 (N_med: 3.5 | I_med: 4.0)
+
+Tools3 delta: 1.0 (N_med: 5.0 | I_med: 4)
+
+Tools4 delta: -1.0 (N_med: 4.0 | I_med: 5)
+
+Tools5 delta: 0.0 (N_med: 4.0 | I_med: 4.0)
+
+Tools6 delta: 0 (N_med: 4 | I_med: 4)
+
+Out1 delta: -1.0 (N_med: 4.0 | I_med: 5)
+
+Out2 delta: -0.5 (N_med: 3.5 | I_med: 4)
+
+Out3 delta: 0.0 (N_med: 4.0 | I_med: 4)
+
+Out4 delta: 0 (N_med: 4 | I_med: 4)
+
+Out5 delta: -2.0 (N_med: 2.0 | I_med: 4)
+
+Out6 delta: 3.0 (N_med: 5.0 | I_med: 2)
+
+Res1 delta: 0.0 (N_med: 4.0 | I_med: 4)
+
+Res2 delta: 2 (N_med: 4 | I_med: 2)
+
+Res3 delta: 1.0 (N_med: 3 | I_med: 2.0)
+
+Res4 delta: 2.0 (N_med: 4.0 | I_med: 2)
+
+Res5 delta: 0.0 (N_med: 4.0 | I_med: 4)
+
+Res6 delta: 1.0 (N_med: 2 | I_med: 1.0)
+
+Res7 delta: -1 (N_med: 4 | I_med: 5)
+
+Res8 delta: -4 (N_med: 1 | I_med: 5)
+
+Res9 delta: 0 (N_med: 5 | I_med: 5)

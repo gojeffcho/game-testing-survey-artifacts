@@ -1,0 +1,255 @@
+Perf1 | U = 45.5 | p = 0.5073058828890795
+Perf1 Medians: 4.0 Indie | 4.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Perf2 | U = 39.0 | p = 0.25751526138892067
+Perf2 Medians: 2.0 Indie | 2.5 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Perf3 | U = 68.5 | p = 0.11779893113747734
+Perf3 Medians: 5.0 Indie | 4.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Perf4 | U = 29.0 | p = 0.05929549109046482
+Perf4 Medians: 2.0 Indie | 5.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Perf5 | U = 32.0 | p = 0.054704642379705896
+Perf5 Medians: 3.0 Indie | 5.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Perf6 | U = 37.0 | p = 0.10813710565337019
+Perf6 Medians: 4.0 Indie | 5.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Perf7 | U = 32.0 | p = 0.0801975350577044
+Perf7 Medians: 4.0 Indie | 5.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Perf8 | U = 48.0 | p = 0.5621009716760212
+Perf8 Medians: 5.0 Indie | 5.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Plan1 | U = 43.0 | p = 0.6028344730388537
+Plan1 Medians: 4.0 Indie | 4.5 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Plan2 | U = 60.5 | p = 0.7133863242420745
+Plan2 Medians: 4.0 Indie | 3.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Plan3 | U = 56.0 | p = 0.781954792786082
+Plan3 Medians: 4.0 Indie | 4.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Plan4 | U = 18.5 | p = 0.015334501605383221
+Plan4 Medians: 1.0 Indie | 4.0 Non-Indie
+[ALPHA] Reject H_0: medians are not equal @ alpha=0.025.
+
+Plan5 | U = 100.0 | p = 0.006823759414032291
+Plan5 Medians: 3.0 Indie | 1.0 Non-Indie
+[ALPHA] Reject H_0: medians are not equal @ alpha=0.025.
+
+Plan6 | U = 55.5 | p = 0.6581301807173916
+Plan6 Medians: 4.0 Indie | 3.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Plan7 | U = 30.5 | p = 0.04776133591503002
+Plan7 Medians: 2.0 Indie | 4.0 Non-Indie
+Crit-val Lookup: 11, 11 => 30 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Plan8 | U = 31.5 | p = 0.27813290561741766
+Plan8 Medians: 3.0 Indie | 3.5 Non-Indie
+Crit-val Lookup: 9, 10 => 20 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Plan9 | U = 46.5 | p = 0.8640803746442965
+Plan9 Medians: 4.0 Indie | 2.0 Non-Indie
+Crit-val Lookup: 11, 8 => 19 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Goals1 | U = 60.5 | p = 1.0
+Goals1 Medians: 5.0 Indie | 5.0 Non-Indie
+Crit-val Lookup: 11, 11 => 30 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Goals2 | U = 60.0 | p = 1.0
+Goals2 Medians: 5.0 Indie | 5.0 Non-Indie
+Crit-val Lookup: 11, 11 => 30 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Goals3 | U = 68.0 | p = 0.6045211144824885
+Goals3 Medians: 5.0 Indie | 5.0 Non-Indie
+Crit-val Lookup: 11, 11 => 30 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Goals4 | U = 100.5 | p = 0.007963130877458638
+Goals4 Medians: 4.0 Indie | 2.0 Non-Indie
+Crit-val Lookup: 11, 11 => 30 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Reject H_0: medians are not equal @ alpha=0.025.
+
+Auto1 | U = 73.0 | p = 0.09815631122890565
+Auto1 Medians: 5.0 Indie | 5.0 Non-Indie
+Crit-val Lookup: 11, 10 => 26 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Auto2 | U = 28.0 | p = 0.4893581684233894
+Auto2 Medians: 1.0 Indie | 4.0 Non-Indie
+Crit-val Lookup: 10, 7 => 14 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Auto3 | U = 12.0 | p = 0.40762594770278093
+Auto3 Medians: 3.0 Indie | 4.0 Non-Indie
+Crit-val Lookup: 5, 7 => 5 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Auto4 | U = 30.0 | p = 0.45501034873542545
+Auto4 Medians: 4.0 Indie | 3.5 Non-Indie
+Crit-val Lookup: 6, 8 => 7 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Auto5 | U = 20.5 | p = 1.0
+Auto5 Medians: 2.5 Indie | 2.0 Non-Indie
+Crit-val Lookup: 6, 7 => 6 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Auto6 | U = 34.0 | p = 0.7964399635857435
+Auto6 Medians: 5.0 Indie | 5.0 Non-Indie
+Crit-val Lookup: 7, 9 => 12 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Auto7 | U = 16.0 | p = 0.5059485706736504
+Auto7 Medians: 3.0 Indie | 5.0 Non-Indie
+Crit-val Lookup: 6, 7 => 6 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Auto8 | U = 38.0 | p = 0.8695198095771317
+Auto8 Medians: 5.0 Indie | 5.0 Non-Indie
+Crit-val Lookup: 8, 9 => 15 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Auto9 | U = 27.5 | p = 0.7014366738872506
+Auto9 Medians: 2.0 Indie | 3.0 Non-Indie
+Crit-val Lookup: 9, 7 => 12 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Auto10 | U = 16.0 | p = 0.8679828147574314
+Auto10 Medians: 3.0 Indie | 3.0 Non-Indie
+Crit-val Lookup: 5, 7 => 5 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Tools1 | U = 40.0 | p = 0.7001980688015061
+Tools1 Medians: 4.0 Indie | 4.5 Non-Indie
+Crit-val Lookup: 9, 10 => 20 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Tools2 | U = 45.5 | p = 0.64663823858216
+Tools2 Medians: 4.0 Indie | 3.5 Non-Indie
+Crit-val Lookup: 8, 10 => 17 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Tools3 | U = 31.0 | p = 0.21629143882849988
+Tools3 Medians: 4.0 Indie | 5.0 Non-Indie
+Crit-val Lookup: 9, 10 => 20 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Tools4 | U = 41.0 | p = 0.5354027781407312
+Tools4 Medians: 5.0 Indie | 4.0 Non-Indie
+Crit-val Lookup: 7, 10 => 14 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Tools5 | U = 25.0 | p = 0.578558139649338
+Tools5 Medians: 4.0 Indie | 4.0 Non-Indie
+Crit-val Lookup: 6, 10 => 11 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Tools6 | U = 43.5 | p = 0.2423514397779003
+Tools6 Medians: 4.0 Indie | 4.0 Non-Indie
+Crit-val Lookup: 11, 11 => 30 crit
+[CRITVAL] Fail to reject H_0: medians are equal @ alpha=0.025.
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Out1 | U = 62.5 | p = 0.5848931305821707
+Out1 Medians: 5.0 Indie | 4.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Out2 | U = 66.5 | p = 0.4274078268488909
+Out2 Medians: 4.0 Indie | 3.5 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Out3 | U = 25.0 | p = 0.020714182049986703
+Out3 Medians: 4.0 Indie | 4.0 Non-Indie
+[ALPHA] Reject H_0: medians are not equal @ alpha=0.025.
+
+Out4 | U = 57.0 | p = 0.835557405662938
+Out4 Medians: 4.0 Indie | 4.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Out5 | U = 58.5 | p = 0.26735488604979774
+Out5 Medians: 4.0 Indie | 2.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Out6 | U = 17.0 | p = 0.018447563393069584
+Out6 Medians: 2.0 Indie | 5.0 Non-Indie
+[ALPHA] Reject H_0: medians are not equal @ alpha=0.025.
+
+Res1 | U = 43.5 | p = 0.40719047754431315
+Res1 Medians: 4.0 Indie | 4.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Res2 | U = 18.0 | p = 0.00397615864572307
+Res2 Medians: 2.0 Indie | 4.0 Non-Indie
+[ALPHA] Reject H_0: medians are not equal @ alpha=0.025.
+
+Res3 | U = 19.0 | p = 0.02857051440013823
+Res3 Medians: 2.0 Indie | 3.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Res4 | U = 9.5 | p = 0.0010116210021032994
+Res4 Medians: 2.0 Indie | 4.0 Non-Indie
+[ALPHA] Reject H_0: medians are not equal @ alpha=0.025.
+
+Res5 | U = 35.0 | p = 0.4652169461278175
+Res5 Medians: 4.0 Indie | 4.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Res6 | U = 34.0 | p = 0.09338271988669195
+Res6 Medians: 1.0 Indie | 2.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+Res7 | U = 93.5 | p = 0.006063969526134527
+Res7 Medians: 5.0 Indie | 4.0 Non-Indie
+[ALPHA] Reject H_0: medians are not equal @ alpha=0.025.
+
+Res8 | U = 116.0 | p = 0.00018781003671095167
+Res8 Medians: 5.0 Indie | 1.0 Non-Indie
+[ALPHA] Reject H_0: medians are not equal @ alpha=0.025.
+
+Res9 | U = 51.0 | p = 0.19385401933820523
+Res9 Medians: 5.0 Indie | 5.0 Non-Indie
+[ALPHA] Fail to reject H_0: medians are equal @ alpha=0.025.
+
+[ALPHA] Prompts with statsig diffs at alpha=0.025: Plan4, Plan5, Goals4, Out3, Out6, Res2, Res4, Res7, Res8

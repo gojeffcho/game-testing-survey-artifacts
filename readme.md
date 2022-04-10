@@ -8,17 +8,17 @@ This repo contains artifacts for _Bughunting on a Budget: Improving Quality Assu
 repo
 │
 │──qualitative\
-│		│──indie_codes_and_themes.pdf
-│		│──nonindie_codes_and_themes.pdf
-│		└──open_text_responses.xlsx 
+│      │──indie_codes_and_themes.pdf
+│      │──nonindie_codes_and_themes.pdf
+│      └──open_text_responses.xlsx 
 │
 │──quantitative\
-│		│──demographic_information_graphs\
-│		│──likert_bargraphs_by_type\
-│		│──likert_boxplots_by_type\
-│		│──mannwhitney.txt
-│		│──medians.txt
-│		└──project_information_graphs\
+│      │──demographic_information_graphs\
+│      │──likert_bargraphs_by_type\
+│      │──likert_boxplots_by_type\
+│      │──mannwhitney.txt
+│      │──medians.txt
+│      └──project_information_graphs\
 │
 └──response_data_processed.csv
 ```

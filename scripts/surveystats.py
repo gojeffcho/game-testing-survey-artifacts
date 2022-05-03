@@ -149,7 +149,7 @@ def graph_experience_boxplot():
     plt.gray()
 
     filename = os.path.join(CONFIG['GRAPH_DIR'], 'xp-box.png')
-    plt.savefig(filename, bbox_inches='tight', pad_inches=0)
+    plt.savefig(filename, bbox_inches='tight', pad_inches=0, dpi=500)
     plt.close()
 
 
@@ -191,7 +191,7 @@ def graph_roles_held():
     plt.ylabel('Respondents who held role', color='gray')
 
     filename = os.path.join(CONFIG['GRAPH_DIR'], 'role-bar.png')
-    plt.savefig(filename, bbox_inches='tight', pad_inches=0)
+    plt.savefig(filename, bbox_inches='tight', pad_inches=0, dpi=500)
     plt.close(fig)
 
 
@@ -233,7 +233,7 @@ def graph_project_info_budget():
     plt.yticks(np.arange(11, step=2))
 
     filename = os.path.join(CONFIG['GRAPH_DIR'], 'budget-bar.png')
-    plt.savefig(filename, bbox_inches='tight', pad_inches=0)
+    plt.savefig(filename, bbox_inches='tight', pad_inches=0, dpi=500)
     plt.close(fig)
 
 
@@ -273,7 +273,7 @@ def graph_project_info_engines():
     plt.yticks(np.arange(9, step=2))
 
     filename = os.path.join(CONFIG['GRAPH_DIR'], 'engine-bar.png')
-    plt.savefig(filename, bbox_inches='tight', pad_inches=0)
+    plt.savefig(filename, bbox_inches='tight', pad_inches=0, dpi=500)
     plt.close(fig)
 
 
@@ -313,7 +313,7 @@ def graph_project_info_games():
     plt.yticks(np.arange(11, step=2))
 
     filename = os.path.join(CONFIG['GRAPH_DIR'], 'gamestype-bar.png')
-    plt.savefig(filename, bbox_inches='tight', pad_inches=0)
+    plt.savefig(filename, bbox_inches='tight', pad_inches=0, dpi=500)
     plt.close(fig)
 
 
@@ -355,7 +355,7 @@ def graph_project_info_teams():
     plt.yticks(np.arange(13, step=2))
 
     filename = os.path.join(CONFIG['GRAPH_DIR'], 'team-bar.png')
-    plt.savefig(filename, bbox_inches='tight', pad_inches=0)
+    plt.savefig(filename, bbox_inches='tight', pad_inches=0, dpi=500)
     plt.close(fig)
 
 
@@ -400,7 +400,7 @@ def make_bargraphs(indies: list, others: list, qname: str):
     axis[1].yaxis.tick_right()
 
     filename = os.path.join(CONFIG['GRAPH_DIR'], CONFIG['BAR_DIR'], f'{qname}-sep.png')
-    plt.savefig(filename)
+    plt.savefig(filename, dpi=500)
     plt.close(f)
 
 
@@ -429,7 +429,7 @@ def make_boxplots(indies: list, others: list, qname: str):
     qnum = qname_to_qnum(qname)
     plt.title(f'{qnum}')
     filename = os.path.join(CONFIG['GRAPH_DIR'], CONFIG['BOX_DIR'], f'{qname}-box.png')
-    plt.savefig(filename)
+    plt.savefig(filename, dpi=500)
     plt.close(f)
 
 

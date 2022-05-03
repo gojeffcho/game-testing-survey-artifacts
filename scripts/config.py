@@ -17,7 +17,7 @@ CONFIG['MANNWHITNEY']   = 'mannwhitney.csv'
 CONFIG['DELTAS']        = 'deltas.csv'
 
 # Analysis Parameters
-CONFIG['ALPHA']     = 0.025
+CONFIG['ALPHA']     = 0.05
 
 
 # Likert Prompt Column Names
